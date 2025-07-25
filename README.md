@@ -120,4 +120,4 @@ pip install -r requirements.txt
 
 For a visual summary of the project, open:
 
-[`presentation/Presentation.pdf`](./presentation/Presentation.pdf)
+[`presentation/Presentation.pdf`](./presentation/Presentation.pptx)
