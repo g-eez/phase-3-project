@@ -110,12 +110,6 @@ To reproduce the project locally, install the required libraries:
 pip install pandas matplotlib seaborn scikit-learn
 ```
 
-Or install everything via a `requirements.txt` (if included):
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 📽️ Presentation Link
 
 For a visual summary of the project, open:
